@@ -1,5 +1,653 @@
 [
   [
+    "LEAGUE ONE - PLAYOFFS - FINAL",
+    "25.05.2025 07:01",
+    "2024/2025",
+    {
+      "home": "Vencedor\nCharlton",
+      "away": "Leyton Orient"
+    },
+    [
+      {
+        "time": "31'",
+        "type": "goal",
+        "score": "1 - 0",
+        "team": "home",
+        "player": "Gillesphey M."
+      },
+      {
+        "time": "68'",
+        "player": "Watson T.",
+        "type": "substitution",
+        "player_in": "Watson T.",
+        "player_out": "Small T."
+      },
+      {
+        "time": "68'",
+        "player": "Anderson K.",
+        "type": "substitution",
+        "player_in": "Anderson K.",
+        "player_out": "Gilbert A."
+      },
+      {
+        "time": "81'",
+        "player": "Aneke Ch.",
+        "type": "substitution",
+        "player_in": "Aneke Ch.",
+        "player_out": "Godden M."
+      },
+      {
+        "time": "81'",
+        "player": "Mbick M.",
+        "type": "substitution",
+        "player_in": "Mbick M.",
+        "player_out": "Campbell T."
+      },
+      {
+        "time": "90+2'",
+        "player": "Jones L.",
+        "type": "yellow_card",
+        "reason": null
+      }
+    ],
+    [
+      {
+        "time": "74'",
+        "player": "James T.",
+        "type": "substitution",
+        "player_in": "James T.",
+        "player_out": "Clare S."
+      },
+      {
+        "time": "74'",
+        "player": "Ball D.",
+        "type": "substitution",
+        "player_in": "Ball D.",
+        "player_out": "Brown J."
+      },
+      {
+        "time": "82'",
+        "player": "Happe D.",
+        "type": "substitution",
+        "player_in": "Happe D.",
+        "player_out": "Beckles O."
+      },
+      {
+        "time": "82'",
+        "player": "Abdulai A.",
+        "type": "substitution",
+        "player_in": "Abdulai A.",
+        "player_out": "Agyei D."
+      },
+      {
+        "time": "82'",
+        "player": "Williams R.",
+        "type": "substitution",
+        "player_in": "Williams R.",
+        "player_out": "O'Neill O."
+      }
+    ]
+  ],
+  [
+    "LEAGUE ONE - PLAYOFFS - SEMIFINALES",
+    "15.05.2025 14:00",
+    "2024/2025",
+    {
+      "home": "Equipo que avanza\nCharlton",
+      "away": "Wycombe"
+    },
+    [
+      {
+        "time": "44'",
+        "player": "Docherty G.",
+        "type": "yellow_card",
+        "reason": null
+      },
+      {
+        "time": "71'",
+        "player": "Aneke Ch.",
+        "type": "substitution",
+        "player_in": "Aneke Ch.",
+        "player_out": "Small T."
+      },
+      {
+        "time": "81'",
+        "type": "goal",
+        "score": "1 - 0",
+        "team": "home",
+        "player": "Godden M."
+      },
+      {
+        "time": "84'",
+        "player": "Anderson K.",
+        "type": "substitution",
+        "player_in": "Anderson K.",
+        "player_out": "Gilbert A."
+      },
+      {
+        "time": "89'",
+        "player": "Watson T.",
+        "type": "substitution",
+        "player_in": "Watson T.",
+        "player_out": "Campbell T."
+      },
+      {
+        "time": "90'",
+        "player": "Godden M.",
+        "type": "yellow_card",
+        "reason": null
+      }
+    ],
+    [
+      {
+        "time": "73'",
+        "player": "Onyedinma F.",
+        "type": "substitution",
+        "player_in": "Onyedinma F.",
+        "player_out": "Kone R."
+      },
+      {
+        "time": "87'",
+        "player": "Sadlier K.",
+        "type": "substitution",
+        "player_in": "Sadlier K.",
+        "player_out": "Simons X."
+      },
+      {
+        "time": "87'",
+        "player": "Westergaard M.",
+        "type": "substitution",
+        "player_in": "Westergaard M.",
+        "player_out": "McCleary G."
+      },
+      {
+        "time": "87'",
+        "player": "Kodua G.",
+        "type": "substitution",
+        "player_in": "Kodua G.",
+        "player_out": "Reach A."
+      }
+    ]
+  ],
+  [
+    "LEAGUE ONE - PLAYOFFS - SEMIFINALES",
+    "14.05.2025 14:00",
+    "2024/2025",
+    {
+      "home": "Stockport",
+      "away": "Leyton Orient\nEquipo que avanza"
+    },
+    [
+      {
+        "time": "26'",
+        "player": "Touray I.",
+        "type": "yellow_card",
+        "reason": null
+      },
+      {
+        "time": "46'",
+        "player": "Knoyle K.",
+        "type": "substitution",
+        "player_in": "Knoyle K.",
+        "player_out": "Hills B."
+      },
+      {
+        "time": "46'",
+        "player": "Rydel R.",
+        "type": "substitution",
+        "player_in": "Rydel R.",
+        "player_out": "Touray I."
+      },
+      {
+        "time": "62'",
+        "player": "Diamond J.",
+        "type": "substitution",
+        "player_in": "Diamond J.",
+        "player_out": "Fevrier J."
+      },
+      {
+        "time": "74'",
+        "type": "goal",
+        "score": "1 - 1",
+        "team": "home",
+        "player": "Olaofe I.",
+        "assist": "Diamond J."
+      },
+      {
+        "time": "84'",
+        "player": "Bailey O.",
+        "type": "substitution",
+        "player_in": "Bailey O.",
+        "player_out": "Collar W."
+      },
+      {
+        "time": "90+4'",
+        "player": "Pye E.",
+        "type": "yellow_card",
+        "reason": null
+      },
+      {
+        "time": "106'",
+        "player": "Andresson B.",
+        "type": "substitution",
+        "player_in": "Andresson B.",
+        "player_out": "Olaofe I."
+      },
+      {
+        "time": "1",
+        "player": "Norwood O."
+      },
+      {
+        "time": "2",
+        "player": "Diamond J."
+      },
+      {
+        "time": "3",
+        "player": "Rydel R."
+      }
+    ],
+    [
+      {
+        "time": "3'",
+        "type": "goal",
+        "score": "0 - 1",
+        "team": "away",
+        "player": "O'Neill O.",
+        "assist": "Galbraith E."
+      },
+      {
+        "time": "19'",
+        "player": "Donley J.",
+        "type": "yellow_card",
+        "reason": null
+      },
+      {
+        "time": "54'",
+        "player": "Brown J.",
+        "type": "yellow_card",
+        "reason": null
+      },
+      {
+        "time": "58'",
+        "player": "Beckles O.",
+        "type": "yellow_card",
+        "reason": null
+      },
+      {
+        "time": "65'",
+        "player": "James T.",
+        "type": "substitution",
+        "player_in": "James T.",
+        "player_out": "Currie J."
+      },
+      {
+        "time": "67'",
+        "player": "Williams R.",
+        "type": "substitution",
+        "player_in": "Williams R.",
+        "player_out": "O'Neill O."
+      },
+      {
+        "time": "77'",
+        "player": "Abdulai A.",
+        "type": "substitution",
+        "player_in": "Abdulai A.",
+        "player_out": "Agyei D."
+      },
+      {
+        "time": "91'",
+        "player": "Ball D.",
+        "type": "substitution",
+        "player_in": "Ball D.",
+        "player_out": "Brown J."
+      },
+      {
+        "time": "98'",
+        "player": "Abdulai A.",
+        "type": "yellow_card",
+        "reason": null
+      },
+      {
+        "time": "106'",
+        "player": "Cooper B.",
+        "type": "substitution",
+        "player_in": "Cooper B.",
+        "player_out": "Edmonds-Green R."
+      },
+      {
+        "time": "112'",
+        "player": "Markanday D.",
+        "type": "substitution",
+        "player_in": "Markanday D.",
+        "player_out": "Donley J."
+      },
+      {
+        "time": "113'",
+        "player": "Clare S.",
+        "type": "yellow_card",
+        "reason": null
+      },
+      {
+        "time": "1",
+        "player": "James T."
+      },
+      {
+        "time": "2",
+        "player": "Clare S."
+      },
+      {
+        "time": "3",
+        "player": "Abdulai A."
+      },
+      {
+        "time": "4",
+        "player": "Galbraith E."
+      }
+    ]
+  ],
+  [
+    "LEAGUE ONE - PLAYOFFS - SEMIFINALES",
+    "11.05.2025 12:30",
+    "2024/2025",
+    {
+      "home": "Wycombe",
+      "away": "Charlton"
+    },
+    [
+      {
+        "time": "37'",
+        "player": "Kone R.",
+        "type": "yellow_card",
+        "reason": null
+      },
+      {
+        "time": "45+1'",
+        "player": "Simons X.",
+        "type": "yellow_card",
+        "reason": null
+      },
+      {
+        "time": "63'",
+        "player": "McCleary G.",
+        "type": "substitution",
+        "player_in": "McCleary G.",
+        "player_out": "Onyedinma F."
+      },
+      {
+        "time": "90+4'",
+        "player": "Westergaard M.",
+        "type": "substitution",
+        "player_in": "Westergaard M.",
+        "player_out": "Simons X."
+      }
+    ],
+    [
+      {
+        "time": "45+2'",
+        "player": "Docherty G.",
+        "type": "yellow_card",
+        "reason": null
+      },
+      {
+        "time": "71'",
+        "player": "Small T.",
+        "type": "substitution",
+        "player_in": "Small T.",
+        "player_out": "Watson T."
+      },
+      {
+        "time": "71'",
+        "player": "Anderson K.",
+        "type": "substitution",
+        "player_in": "Anderson K.",
+        "player_out": "Berry L."
+      }
+    ]
+  ],
+  [
+    "LEAGUE ONE - PLAYOFFS - SEMIFINALES",
+    "10.05.2025 06:30",
+    "2024/2025",
+    {
+      "home": "Leyton Orient",
+      "away": "Stockport"
+    },
+    [
+      {
+        "time": "30'",
+        "type": "goal",
+        "score": "1 - 0",
+        "team": "home",
+        "player": "Kelman C.",
+        "assist": "Beckles O."
+      },
+      {
+        "time": "52'",
+        "player": "Clare S.",
+        "type": "yellow_card",
+        "reason": null
+      },
+      {
+        "time": "64'",
+        "player": "Williams R.",
+        "type": "yellow_card",
+        "reason": null
+      },
+      {
+        "time": "66'",
+        "player": "Currie J.",
+        "type": "substitution",
+        "player_in": "Currie J.",
+        "player_out": "Williams R."
+      },
+      {
+        "time": "67'",
+        "player": "James T.",
+        "type": "substitution",
+        "player_in": "James T.",
+        "player_out": "Cooper B."
+      },
+      {
+        "time": "70'",
+        "player": "Abdulai A.",
+        "type": "yellow_card",
+        "reason": null
+      },
+      {
+        "time": "71'",
+        "player": "O'Neill O.",
+        "type": "substitution",
+        "player_in": "O'Neill O.",
+        "player_out": "Abdulai A."
+      },
+      {
+        "time": "88'",
+        "type": "goal",
+        "score": "2 - 2",
+        "team": "home",
+        "player": "Kelman C."
+      }
+    ],
+    [
+      {
+        "time": "60'",
+        "type": "goal",
+        "score": "1 - 1",
+        "team": "away",
+        "player": "Norwood O."
+      },
+      {
+        "time": "65'",
+        "type": "goal",
+        "score": "1 - 2",
+        "team": "away",
+        "player": "Horsfall F.",
+        "assist": "Norwood O."
+      },
+      {
+        "time": "83'",
+        "player": "Connolly C.",
+        "type": "substitution",
+        "player_in": "Connolly C.",
+        "player_out": "Collar W."
+      },
+      {
+        "time": "83'",
+        "player": "Bate L.",
+        "type": "substitution",
+        "player_in": "Bate L.",
+        "player_out": "Fevrier J."
+      },
+      {
+        "time": "84'",
+        "player": "Rydel R.",
+        "type": "substitution",
+        "player_in": "Rydel R.",
+        "player_out": "Hills B."
+      },
+      {
+        "time": "90+1'",
+        "player": "Camps C.",
+        "type": "substitution",
+        "player_in": "Camps C.",
+        "player_out": "Moxon O."
+      },
+      {
+        "time": "90+1'",
+        "player": "Bailey O.",
+        "type": "substitution",
+        "player_in": "Bailey O.",
+        "player_out": "Olaofe I."
+      }
+    ]
+  ],
+  [
+    "LEAGUE ONE - JORNADA 46",
+    "03.05.2025 09:00",
+    "2024/2025",
+    {
+      "home": "Blackpool",
+      "away": "Bristol Rovers"
+    },
+    [
+      {
+        "time": "40'",
+        "type": "goal",
+        "score": "1 - 1",
+        "team": "home",
+        "player": "Bloxham T."
+      },
+      {
+        "time": "55'",
+        "type": "goal",
+        "score": "2 - 1",
+        "team": "home",
+        "player": "Morgan A.",
+        "assist": "Ennis N."
+      },
+      {
+        "time": "61'",
+        "player": "Fletcher A.",
+        "type": "substitution",
+        "player_in": "Fletcher A.",
+        "player_out": "Apter R."
+      },
+      {
+        "time": "72'",
+        "player": "Lyons A.",
+        "type": "substitution",
+        "player_in": "Lyons A.",
+        "player_out": "Pennington M."
+      },
+      {
+        "time": "72'",
+        "player": "Lawrence-Gabriel J.",
+        "type": "substitution",
+        "player_in": "Lawrence-Gabriel J.",
+        "player_out": "Bloxham T."
+      },
+      {
+        "time": "76'",
+        "type": "goal",
+        "score": "3 - 1",
+        "team": "home",
+        "player": "Ennis N.",
+        "assist": "Hamilton C."
+      },
+      {
+        "time": "77'",
+        "player": "Beesley J.",
+        "type": "substitution",
+        "player_in": "Beesley J.",
+        "player_out": "Ennis N."
+      },
+      {
+        "time": "78'",
+        "player": "Finnigan R.",
+        "type": "substitution",
+        "player_in": "Finnigan R.",
+        "player_out": "Evans L."
+      },
+      {
+        "time": "89'",
+        "type": "goal",
+        "score": "4 - 1",
+        "team": "home",
+        "player": "Finnigan R."
+      }
+    ],
+    [
+      {
+        "time": "18'",
+        "type": "goal",
+        "score": "0 - 1",
+        "team": "away",
+        "player": "O'Donkor G."
+      },
+      {
+        "time": "57'",
+        "player": "Sousa L.",
+        "type": "substitution",
+        "player_in": "Sousa L.",
+        "player_out": "Mola C."
+      },
+      {
+        "time": "57'",
+        "player": "Sawyers R.",
+        "type": "substitution",
+        "player_in": "Sawyers R.",
+        "player_out": "O'Donkor G."
+      },
+      {
+        "time": "69'",
+        "player": "Butcher M.",
+        "type": "yellow_card",
+        "reason": null
+      },
+      {
+        "time": "71'",
+        "player": "Lindsay J.",
+        "type": "substitution",
+        "player_in": "Lindsay J.",
+        "player_out": "Hutchinson I."
+      },
+      {
+        "time": "71'",
+        "player": "Thomas L.",
+        "type": "substitution",
+        "player_in": "Thomas L.",
+        "player_out": "Swinkels S."
+      },
+      {
+        "time": "71'",
+        "player": "Reindorf M.",
+        "type": "substitution",
+        "player_in": "Reindorf M.",
+        "player_out": "Dewsbury O."
+      }
+    ]
+  ],
+  [
     "LEAGUE ONE - JORNADA 46",
     "03.05.2025 09:00",
     "2024/2025",
